@@ -12,4 +12,6 @@ Competencies: Product planning and innovation; Technology strategy and roadmappi
 
 - [Twitter](https://twitter.com/arnigunnar)
 - [LinkedIn](https://www.linkedin.com/in/arnigunnar)
+- [Indie Hackers](https://www.indiehackers.com/arnigunnar)
+- [Makerlog](https://getmakerlog.com/@arnigunnar)
 - [Website](https://www.cloudconsulting.dev)
