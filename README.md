@@ -1,6 +1,6 @@
 # Árni Gunnar Ragnarsson
 
-## A Full Stack Development Yoda, Software Architect & Technical Consultant
+## A Full Stack Yoda, Software Architect & Technical Consultant
 
 Transforming business processes through technology is my passion, I love creating software solutions. Ever since my first websites over 25 years ago, to the more complicated product solutions I have had a hand in since, I have fallen in love with the production process.
 
