@@ -6,14 +6,20 @@ Transforming business processes through technology is my passion, I love creatin
 
 Currently I am a freelance technical solutions provider, focusing on the travel sector.
 
-Competencies: Product planning and innovation; Technology strategy and roadmapping; Software development ``['C#', 'TypeScript', 'Node', 'React', 'Next.js', 'Vue', ...]``; Cloud Hosting Platform ``['Microsoft Azure', 'Google Cloud Platform', 'Netlify', 'Vercel', 'AWS', ...]``; Database design ``['MS SQL Server', 'Postgres', 'Google Firebase', ...]``.
+### Competencies
+
+- Software Deveopment: ``['C#', 'TypeScript', 'Node', 'React', 'Next.js', 'Vue', ...]``
+- Cloud Hosting Platform:  ``['Microsoft Azure', 'Google Cloud Platform', 'Netlify', 'Vercel', 'AWS', ...]``
+- Database design ``['MS SQL Server', 'Postgres', 'Google Firebase', ...]``
+- Product planning and innovation
+- Technology strategy and roadmapping
 
 ## Founder @ Itsy ([coming soon](https://www.itsy.so/))
 
 ## Links
 
-- [Twitter](https://twitter.com/arnigunnar)
 - [LinkedIn](https://www.linkedin.com/in/arnigunnar)
 - [Indie Hackers](https://www.indiehackers.com/arnigunnar)
-- [Makerlog](https://getmakerlog.com/@arnigunnar)
 - [Website](https://www.cloudconsulting.dev)
+- [Twitter](https://twitter.com/arnigunnar)
+- [Makerlog](https://getmakerlog.com/@arnigunnar)
