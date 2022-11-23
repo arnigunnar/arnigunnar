@@ -14,6 +14,20 @@ Currently I am a freelance technical solutions provider, focusing on the travel 
 - Product planning and innovation
 - Technology strategy and roadmapping
 
+### Customers
+
+- [Vita](https://github.com/vita-travel)
+- [Tixly](https://github.com/tix-ticketing)
+- [Icelandair](https://github.com/icelandair)
+- Arctic Adventures
+- [Marel](https://github.com/marel)
+- Blindrafélagið
+- Swapp Agency
+- [TripCreator](https://github.com/xperious)
+- Payday
+- Heimsferðir
+- [UTeamUp](https://github.com/uteamup)
+
 ## Founder @ Itsy ([coming soon](https://www.itsy.so/))
 
 ## Links
