@@ -4,7 +4,7 @@
 
 Transforming business processes through technology is my passion, I love creating software solutions. Ever since my first websites over 25 years ago, to the more complicated product solutions I have had a hand in since, I have fallen in love with the production process.
 
-Currently I am a freelance solutions provider, focusing on the travel sector.
+Currently I am a freelance technical solutions provider, focusing on the travel sector.
 
 Competencies: Product planning and innovation; Technology strategy and roadmapping; Software development ``['C#', 'TypeScript', 'Node', 'React', 'Next.js', 'Vue', ...]``; Cloud Hosting Platform ``['Microsoft Azure', 'Google Cloud Platform', 'Netlify', ...]``; Database design ``['MS SQL Server', 'Postgres', 'Google Firebase', ...]``.
 
