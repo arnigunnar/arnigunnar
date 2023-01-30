@@ -17,7 +17,7 @@ Currently I am a freelance technical solutions provider, focusing on the travel 
 ### Customers
 
 - [Vita](https://github.com/vita-travel)
-- [Blue Lagoon](https://www.bluelagoon.is)
+- [Blue Lagoon](https://github.com/bluelagoonltd)
 - [Tixly](https://github.com/tix-ticketing)
 - [Icelandair](https://github.com/icelandair)
 - Arctic Adventures
