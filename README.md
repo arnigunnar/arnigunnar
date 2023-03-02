@@ -8,8 +8,8 @@ Currently I am a freelance technical solutions provider, focusing on the travel 
 
 ### Competencies
 
-- Software Deveopment: ``['C#', 'TypeScript', 'Node', 'React', 'Next.js', 'Vue', ...]``
-- Cloud Hosting Platform:  ``['Microsoft Azure', 'Google Cloud Platform', 'Netlify', 'Vercel', 'AWS', ...]``
+- Software Deveopment: ``['C#', 'TypeScript', 'Node', 'React', 'Next.js', 'NestJS', 'Vue', ...]``
+- Cloud Hosting Platform:  ``['Microsoft Azure', 'Google Cloud Platform', 'Vercel', 'Netlify', 'AWS', ...]``
 - Database design ``['MS SQL Server', 'Postgres', 'Google Firebase', ...]``
 - Product planning and innovation
 - Technology strategy and roadmapping
