@@ -31,6 +31,8 @@ As a freelance technical solutions provider, I specialize in answering the 'how'
 
 ## Founder @ Itsy ([coming soon](https://www.itsy.so/))
 
+**Travel Planning made simple for small travel agencies.** We aim to make travel agency software a pleasure to use and empower travel professionals to deliver excellent experiences for their clients.
+
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/arnigunnar)
