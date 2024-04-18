@@ -2,9 +2,9 @@
 
 ## A Full Stack Yoda, Software Architect & Technical Consultant
 
-Transforming business processes through technology is my passion, I love creating software solutions. Ever since my first websites over 25 years ago, to the more complicated product solutions I have had a hand in since, I have fallen in love with the production process.
+Fuelled by an unwavering passion for revolutionizing business operations with technology, I thrive on crafting innovative software solutions. From my humble beginnings crafting websites over two decades ago to orchestrating intricate product solutions today, I've become enamored with the artistry of the production process.
 
-Currently I am a freelance technical solutions provider, focusing on the travel sector.
+As a freelance technical solutions provider, my expertise is dedicated to reshaping the landscape of the travel sector. Join me on a journey where technology meets creativity, where every line of code paves the way for transformative experiences.
 
 ### Competencies
 
