@@ -20,13 +20,17 @@ As a freelance technical solutions provider, I specialize in answering the 'how'
 - [Blue Lagoon](https://github.com/bluelagoonltd)
 - [Tixly](https://github.com/tix-ticketing)
 - [Icelandair](https://github.com/icelandair)
-- Arctic Adventures
+- [Okkar Ferðir](https://www.okkarferdir.is)
+- [Arctic Adventures](https://www.adventures.com)
+- [Ficus Reykjavik](https://www.ficusreykjavik.is)
+- [Ameríkuferðir](https://www.amerikuferdir.is)
+- [Evrópuferðir](https://www.evropuferdir.is)
 - [Marel](https://github.com/marel)
-- Blindrafélagið
-- Swapp Agency
+- [Blindrafélagið](https://www.blind.is)
+- [Swapp Agency](https://swappagency.com/)
 - [TripCreator](https://github.com/xperious)
-- Payday
-- Heimsferðir
+- [Payday](https://www.payday.is)
+- [Heimsferðir](https://www.heimsferdir.is)
 - [UTeamUp](https://github.com/uteamup)
 
 ## Founder @ Itsy ([coming soon](https://www.itsy.so/))
