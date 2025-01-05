@@ -40,6 +40,7 @@ As a freelance technical solutions provider, I specialize in answering the 'how'
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/arnigunnar)
+- [BlueSky / @arnigunnar.me](https://bsky.app/profile/arnigunnar.me)
+- [BlueSky / @itsy.so](https://bsky.app/profile/itsy.so)
 - [Indie Hackers](https://www.indiehackers.com/arnigunnar)
 - [Website](https://www.cloudconsulting.dev)
-- [Twitter](https://twitter.com/arnigunnar)
