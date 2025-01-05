@@ -43,4 +43,3 @@ As a freelance technical solutions provider, I specialize in answering the 'how'
 - [Indie Hackers](https://www.indiehackers.com/arnigunnar)
 - [Website](https://www.cloudconsulting.dev)
 - [Twitter](https://twitter.com/arnigunnar)
-- [Makerlog](https://getmakerlog.com/@arnigunnar)
