@@ -17,6 +17,7 @@ As a freelance technical solutions provider, I specialize in answering the 'how'
 ### Customers
 
 - [Vita](https://github.com/vita-travel)
+- [Lucinity](https://github.com/lucinity)
 - [Blue Lagoon](https://github.com/bluelagoonltd)
 - [Tixly](https://github.com/tix-ticketing)
 - [Icelandair](https://github.com/icelandair)
