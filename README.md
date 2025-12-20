@@ -1,47 +1,27 @@
 # Árni Gunnar Ragnarsson
 
-## A Full Stack Yoda, Software Architect & Technical Consultant
+## Founder @ [Itsy](https://www.itsy.so/)
 
-Driven by an unyielding passion for revolutionizing business operations through technology, I thrive on architecting innovative software solutions. From my early days crafting websites over two decades ago to orchestrating intricate product solutions today, I've developed a deep fascination with the artistry of the production process.
+**Travel planning made simple for small travel agencies.**
 
-As a freelance technical solutions provider, I specialize in answering the 'how' behind the 'what' in software development. My focus is on reshaping the landscape of the travel sector, employing cutting-edge technologies to bring ideas to life. Join me on a journey where technology meets creativity, where every line of code not only defines 'what' we create but illuminates 'how' we transform concepts into reality.
+I'm building Itsy to make travel agency software a pleasure to use—empowering travel professionals to deliver excellent experiences for their clients without fighting their tools.
 
-### Competencies
+### Why I'm Building This
 
-- Software Deveopment: ``['C#', 'TypeScript', 'Node', 'React', 'Next.js', 'NestJS', 'Vue', ...]``
-- Cloud Hosting Platform:  ``['Microsoft Azure', 'Google Cloud Platform', 'Vercel', 'Netlify', 'AWS', ...]``
-- Database design ``['MS SQL Server', 'Postgres', 'Google Firebase', ...]``
-- Product planning and innovation
-- Technology strategy and roadmapping
+I've spent nearly 20 years solving problems in travel tech. In 2006, I founded **Odin Software** with the goal of building a modern software solution for travel agencies. Over 13 years, we grew it into the platform of choice for most of Iceland's leading travel agencies, building a profitable company with a team of around 10 people.
 
-### Customers
+I left Odin in 2019, but the itch to build never went away. Itsy is everything I've learned about what travel agencies actually need—distilled into software that gets out of the way.
 
-- [Vita](https://github.com/vita-travel)
-- [Lucinity](https://github.com/lucinity)
-- [Blue Lagoon](https://github.com/bluelagoonltd)
-- [Tixly](https://github.com/tix-ticketing)
-- [Icelandair](https://github.com/icelandair)
-- [Okkar Ferðir](https://www.okkarferdir.is)
-- [Arctic Adventures](https://www.adventures.com)
-- [Ficus Reykjavik](https://www.ficusreykjavik.is)
-- [Ameríkuferðir](https://www.amerikuferdir.is)
-- [Evrópuferðir](https://www.evropuferdir.is)
-- [Marel](https://github.com/marel)
-- [Blindrafélagið](https://www.blind.is)
-- [Swapp Agency](https://swappagency.com/)
-- [TripCreator](https://github.com/xperious)
-- [Payday](https://www.payday.is)
-- [Heimsferðir](https://www.heimsferdir.is)
-- [UTeamUp](https://github.com/uteamup)
+### Background
 
-## Founder @ Itsy ([coming soon](https://www.itsy.so/))
+My journey in travel tech started in 2002, building booking platforms before founding Odin. Along the way, I've worked with companies like Icelandair, Blue Lagoon, Arctic Adventures, and dozens of travel agencies across Iceland. I've seen what works, what breaks, and what people actually use.
 
-**Travel Planning made simple for small travel agencies.** We aim to make travel agency software a pleasure to use and empower travel professionals to deliver excellent experiences for their clients.
+### Tech
 
-## Links
+.NET on Google Cloud, Next.js on Vercel, PostgreSQL. 25 years of full-stack experience across C#, TypeScript, React, and most major cloud platforms.
 
+### Links
+
+- [Itsy on BlueSky](https://bsky.app/profile/itsy.so)
 - [LinkedIn](https://www.linkedin.com/in/arnigunnar)
-- [BlueSky / @arnigunnar.me](https://bsky.app/profile/arnigunnar.me)
-- [BlueSky / @itsy.so](https://bsky.app/profile/itsy.so)
-- [Indie Hackers](https://www.indiehackers.com/arnigunnar)
-- [Website](https://www.cloudconsulting.dev)
+- [Personal BlueSky](https://bsky.app/profile/arnigunnar.me)
