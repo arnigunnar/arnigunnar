@@ -6,7 +6,7 @@
 
 I'm building Itsy to make travel agency software a pleasure to use—empowering travel professionals to deliver excellent experiences for their clients without fighting their tools.
 
-### Why I'm Building This
+### Why I'm building Itsy
 
 I've spent nearly 20 years solving problems in travel tech. In 2006, I founded **Odin Software** with the goal of building a modern software solution for travel agencies. Over 13 years, we grew it into the platform of choice for most of Iceland's leading travel agencies, building a profitable company with a team of around 10 people.
 
